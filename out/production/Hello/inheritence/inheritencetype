@@ -1,0 +1,33 @@
+// Single Inheritance
+ /*  public class single {
+    class B {
+    }
+
+    class A extends B {
+
+    }
+
+    // Multilevel Inheritance
+    // Grandfather --> Father --> Son --> Child
+    class B {
+    }
+
+    class A extends B {
+    }
+
+    class C extends A {
+    }
+
+    class D extends C {
+    }
+
+    // Multiple(Hybrid) -> Father + Mother --> Child
+    interface A {
+    }
+
+    interface B {
+    }
+
+    class C implements A, B {
+    }
+   // Hierarchical_inheritance
