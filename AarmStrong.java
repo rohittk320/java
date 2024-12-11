@@ -13,6 +13,7 @@ public class AarmStrong {
             }
             if (arm == c) {
                 System.out.println("number is armstrong "+ arm);
+                System.out.println( "hello");
             }
         }
     }
