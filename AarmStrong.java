@@ -13,8 +13,13 @@ public class AarmStrong {
             }
             if (arm == c) {
                 System.out.println("number is armstrong "+ arm);
+<<<<<<< HEAD
+                System.out.println( "hello");
+                System.out.println( "World");
+=======
                 System.out.println(3+2);
                 System.out.println(3*2);
+>>>>>>> 67eeb9711c55c4abc11e0722223bd1f8306a0353
 
             }
         }
